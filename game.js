@@ -2,7 +2,7 @@ let canvasElement = document.getElementById("gameCanvas");
 let ctx = canvasElement.getContext("2d");
 console.log("Test");
 const constants = {
-  PLAYER_WIDTH: 50,
+  PLAYER_WIDTH: 600,
   PLAYER_HEIGHT: 50,
   PLATFORM_WIDTH: 100,
   PLATFORM_HEIGHT: 20,
